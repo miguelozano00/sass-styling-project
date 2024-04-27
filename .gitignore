@@ -2,3 +2,6 @@
 *.css.map
 *.sass.map
 *.scss.map
+
+# Other generated or system files
+*.DS_Store
