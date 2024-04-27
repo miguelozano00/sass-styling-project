@@ -5,3 +5,6 @@
 
 # Other generated or system files
 *.DS_Store
+*.vscode
+*.editorconfig
+*.gitattributes
